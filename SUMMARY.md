@@ -18,5 +18,5 @@
 - 7. [参考](Section7/7.md)
     - 7.1. [规范性参考](Section7/7.1.md)
     - 7.2. [内容性参考](Section7/7.2.md)
-- 附录A. [对 RFC 4329 的更改](AppendixA/Changes from RFC 4329.md)
+- 附录A. [对 RFC 4329 的更改](AppendixA/Changes-from-RFC-4329.md)
 - [致谢](Acknowledgements/Acknowledgements.md)
